@@ -6,10 +6,10 @@ public class Even
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("Enter the number: ");
-		Scanner sc=new Scanner(System.in);
-		int a = sc.nextInt();
-		//int a=10;
+//		System.out.println("Enter the number: ");
+//		Scanner sc=new Scanner(System.in);
+//		int a = sc.nextInt();
+		int a=10;
 		System.out.println("List of odd & Even Numbers 1 to"+a);
 		
 		for (int i = 1; i <= a; i++) 
